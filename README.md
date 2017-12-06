@@ -1,2 +1,2 @@
-# Color-Mixer
+# OpenGL Color Mixer
 Computer Graphics OpenGL - Color Mixer
